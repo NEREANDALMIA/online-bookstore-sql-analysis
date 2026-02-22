@@ -58,7 +58,7 @@ The dataset contains order timestamps, customer demographics, and detailed book 
 ![Genre Wise Sales Performance](screenshots/genre_wise_sales_performance.png)
 
 ### Customer Loyalty (2+ Orders)
-![Customer Loyality](customer_loyality.png)
+![Customer Loyality](screenshots/customer_loyality.png)
 
 ### Lowest Stock
 ![Lowest Stock](screenshots/lowest_stock.png)
